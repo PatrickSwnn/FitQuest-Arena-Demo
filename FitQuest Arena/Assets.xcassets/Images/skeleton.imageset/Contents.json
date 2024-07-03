@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "skeleton.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
